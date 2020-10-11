@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+Utilities and Libraries for PHP Programmers.
 
-You can use the [editor on GitHub](https://github.com/php-enspired/php-enspired.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Projects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Check out some of our projects!
 
-### Markdown
+- [**Exceptable**](https://packagist.org/packages/php-enspired/exceptable) - Augmented features for exceptions and exception handling.
+- **Simple** - a collection of small utility libraries:
+  - [**Json**](https://packagist.org/packages/php-enspired/simple-json) - Convenience wrapper for json encoding/decoding.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Sponsor Us
 
-```markdown
-Syntax highlighted code block
+Help support and expand these projects. [Learn more here](https://github.com/sponsors/php-enspired/).
 
-# Header 1
-## Header 2
-### Header 3
+## Support or Contact
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/php-enspired/php-enspired.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We're on [freenode at #php-enspired](http://webchat.freenode.net?channels=%23php-enspired&uio=d4).
