@@ -14,4 +14,4 @@ Help support and expand these projects. [Learn more here](https://github.com/spo
 
 ## Support or Contact
 
-We're on [freenode at #php-enspired](http://webchat.freenode.net?channels=%23php-enspired&uio=d4).
+We're on [libera at #php-enspired](http://web.libera.chat?channels=%23php-enspired&uio=d4).
